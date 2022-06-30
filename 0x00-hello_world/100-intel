@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - Entry point
  *
@@ -7,7 +6,7 @@
  */
 int main(void)
 {
+        	write(2, "c programming is usful\" - Ashu\n", 61);
 
-	write(2, "c programming is very important for our generation\" - Ashagrie Mirie alx 2022 student\n",22);
-	return (0);
+    		return (1);
 }
