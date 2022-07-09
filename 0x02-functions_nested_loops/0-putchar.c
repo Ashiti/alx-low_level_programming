@@ -1,4 +1,4 @@
-#include "main.h"
+#include "_putchar.h"
 
 /**
   * main - Entry point
@@ -20,3 +20,4 @@ int main(void)
 
 	return (0);
 }
+
